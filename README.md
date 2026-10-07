@@ -14,4 +14,4 @@ Python, TypeScript, SQL, Flask, Snowflake, LangGraph, RAG, MCP, pytest.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/mohannad-ibrahim-ned) · mibrahimhg@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mohannad-ibrahim-ned) · mibrahim6@unl.edu
